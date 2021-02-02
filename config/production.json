@@ -1,0 +1,21 @@
+{
+    "name": "ENDPOINTS MCAFEE - PROD",
+    "version": "1.0.0",
+    "server":{
+      "PORT" : 5000  
+    },
+    "database": {
+        "DBNAME": "mcafee_multiterritorios",
+        "DBHOST": "dbtesting.gearlabs.cl",
+        "DBPORT": 3306,
+        "DBUSER": "mcafee_admin_territorios",
+        "DBPSSW": "HSuwshhuw43&%1253"
+    },
+    "customAuth": {
+        "NAME" : "G3ARLABS",
+        "USER": "userApi",
+        "PASS" : "$2b$10$nd1vR4YSZS/o5ScJyVZZIOiFglpuVOLrCOfY35.YAidlwvWERe3G2"
+    },
+    "pkj": "G3arl@abs"
+    
+}

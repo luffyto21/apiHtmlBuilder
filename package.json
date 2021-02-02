@@ -1,0 +1,32 @@
+{
+  "name": "api-mcafee",
+  "version": "1.1.0",
+  "description": "Endpoints para obtencion de datos relacionados al proyecto de mcafee-territorios",
+  "main": "index.js",
+  "repository": "http://gitlab.gearlabs.cl/cdiaz/node-rest-api-mcafee.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "basic-auth": "^2.0.1",
+    "bcrypt": "^5.0.0",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "express-basic-auth": "^1.2.0",
+    "express-useragent": "^1.0.15",
+    "joi": "^17.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "log": "^6.0.0",
+    "log-node": "^7.0.0",
+    "mongoose": "^5.10.9",
+    "mysql": "^2.18.1",
+    "underscore": "^1.11.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.0"
+  }
+}
